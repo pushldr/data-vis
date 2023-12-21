@@ -9,6 +9,6 @@ Open link `http://127.0.0.1:8050/` in browser
 
 followed by
 
-`python dashboard.py`
+`python app.py`
 
 Open link `http://127.0.0.1:8050/` in browser
