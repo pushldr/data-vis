@@ -8,4 +8,4 @@ COPY ./owid-covid-data.csv /owid-covid-data.csv
 
 RUN pip install -r /requirements.txt
 
-CMD ["python", "/src/dashboard.py"]
+CMD ["python", "/dashboard.py"]
